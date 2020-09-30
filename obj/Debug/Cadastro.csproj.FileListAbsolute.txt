@@ -1,0 +1,13 @@
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\bin\Debug\Mono.Security.dll
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\bin\Debug\Npgsql.dll
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csprojAssemblyReference.cache
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Form1.resources
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CopyComplete
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\Fabrício\source\repos\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
